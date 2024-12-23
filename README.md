@@ -5,32 +5,38 @@ The Banking Management System is a Java-based application designed to manage ban
 
 Key Features:
 
-User Registration and Authentication:
-Register new users with unique email addresses.
-Secure login using account number and PIN.
-Account Management:
-Create, update, and manage accounts.
-View account details, including balance.
-Transaction Handling:
-Deposit and withdraw funds.
-Transfer money between accounts.
-Database Integration:
-MySQL database for secure and reliable data storage.
-JDBC for seamless interaction between the application and the database.
-Technology Stack:
+1.User Registration and Authentication:
+   Register new users with unique email addresses.
+   Secure login using account number and PIN.
+  
+2.Account Management:
+   Create, update, and manage accounts.
+   View account details, including balance.
+   
+3.Transaction Handling:
+   Deposit and withdraw funds.
+   Transfer money between accounts.
+   
+4.Database Integration:
+   MySQL database for secure and reliable data storage.
+   JDBC for seamless interaction between the application and the database.
+   
+5.Technology Stack:
 
 Programming Language: Java
 Database: MySQL
 Database Connectivity: JDBC
 Development Environment: IntelliJ IDEA
 Paradigm: Object-Oriented Programming (OOP)
+
 How to Run:
 
-Clone the repository to your local machine.
-Set up a MySQL database and import the provided SQL schema.
-Update the database connection settings in the source code.
-Open the project in IntelliJ IDEA.
-Compile and run the application.
+1.Clone the repository to your local machine.
+2.Set up a MySQL database and import the provided SQL schema.
+3.Update the database connection settings in the source code.
+4.Open the project in IntelliJ IDEA.
+5.Compile and run the application.
+
 Future Enhancements:
 
 Add role-based access control for administrators and customers.
