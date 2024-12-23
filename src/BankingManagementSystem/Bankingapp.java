@@ -10,9 +10,9 @@ public class Bankingapp {
 
     private static final String url="jdbc:mysql://localhost:3306/Banking_management_system";
 
-    private static final String username="root";
+    private static final String username="sql username";
 
-    private static final String password="AKmeena@0811";
+    private static final String password="Add your sql user password";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException
     {
