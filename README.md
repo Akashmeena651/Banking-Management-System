@@ -1,10 +1,10 @@
 # Banking Management System
 
-##Project Description
+## Project Description
 
 The Banking Management System is a Java-based application designed to manage banking operations seamlessly. This project leverages object-oriented programming (OOP) principles, JDBC for database connectivity, and a MySQL database for data storage. Developed in IntelliJ IDEA, the application provides a secure and user-friendly interface for customers and administrators to perform essential banking tasks.
 
-##Key Features:
+## Key Features:
 
 1.User Registration and Authentication:
 
@@ -42,7 +42,7 @@ The Banking Management System is a Java-based application designed to manage ban
    
    e).Paradigm: Object-Oriented Programming (OOP)
 
-##How to Run:
+## How to Run:
 
 1.Clone the repository to your local machine.
 2.Set up a MySQL database and import the provided SQL schema.
@@ -50,7 +50,7 @@ The Banking Management System is a Java-based application designed to manage ban
 4.Open the project in IntelliJ IDEA.
 5.Compile and run the application.
 
-##Future Enhancements:
+## Future Enhancements:
 
 Add role-based access control for administrators and customers.
 Implement REST APIs for remote access.
