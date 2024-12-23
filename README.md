@@ -1,35 +1,48 @@
-Banking Management System
-Project Description
+# Banking Management System
+
+##Project Description
 
 The Banking Management System is a Java-based application designed to manage banking operations seamlessly. This project leverages object-oriented programming (OOP) principles, JDBC for database connectivity, and a MySQL database for data storage. Developed in IntelliJ IDEA, the application provides a secure and user-friendly interface for customers and administrators to perform essential banking tasks.
 
-Key Features:
+##Key Features:
 
 1.User Registration and Authentication:
-   Register new users with unique email addresses.
-   Secure login using account number and PIN.
+
+   a).Register new users with unique email addresses.
+   
+   b).Secure login using account number and PIN.
   
 2.Account Management:
-   Create, update, and manage accounts.
-   View account details, including balance.
+
+   a).Create, update, and manage accounts.
+   
+   b).View account details, including balance.
    
 3.Transaction Handling:
-   Deposit and withdraw funds.
-   Transfer money between accounts.
+
+   a).Deposit and withdraw funds.
+   
+   b).Transfer money between accounts.
    
 4.Database Integration:
-   MySQL database for secure and reliable data storage.
-   JDBC for seamless interaction between the application and the database.
+
+   a).MySQL database for secure and reliable data storage.
+   
+   b).JDBC for seamless interaction between the application and the database.
    
 5.Technology Stack:
 
-Programming Language: Java
-Database: MySQL
-Database Connectivity: JDBC
-Development Environment: IntelliJ IDEA
-Paradigm: Object-Oriented Programming (OOP)
+   a).Programming Language: Java
+    
+   b).Database: MySQL
+   
+   c).Database Connectivity: JDBC
+   
+   d).Development Environment: IntelliJ IDEA
+   
+   e).Paradigm: Object-Oriented Programming (OOP)
 
-How to Run:
+##How to Run:
 
 1.Clone the repository to your local machine.
 2.Set up a MySQL database and import the provided SQL schema.
@@ -37,7 +50,7 @@ How to Run:
 4.Open the project in IntelliJ IDEA.
 5.Compile and run the application.
 
-Future Enhancements:
+##Future Enhancements:
 
 Add role-based access control for administrators and customers.
 Implement REST APIs for remote access.
